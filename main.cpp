@@ -33,4 +33,6 @@ void tampilkanMenu() {
 
     cout << "==========================================" << endl;
     cout << "Masukkan pilihan (1-6): ";
+
+    cout << endl << "Halo mas";
 }
